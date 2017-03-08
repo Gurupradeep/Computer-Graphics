@@ -27,8 +27,8 @@ void main()
 	scanf("%d",&x2);
 	printf("Enter y2:");
 	scanf("%d",&y2);*/
-    x1 = 300;
-	y1 = 300;
+    x1 = 500;
+	y1 = 200;
 	x2 = 400;
 	y2 = 400;
 	line(x1,y1,x2,y2);
